@@ -1,1 +1,15 @@
+# 1.00: Phase 1 - Buck Converter Objectives
 
+
+## Project Introduction
+The first phase of Project SLSB is learning the basics of DC-DC power conversion. 
+I recently did a project on buck converters with the IEEE PES chapter at UT Dallas and learned a lot about power electronics (ie. buck converters) and simulation software used such as Simulink.
+In this phase, I want to apply what I learned and using it for the output of a small solar panel, which I plan on researching the specs on.
+
+First is learning LTspice as a simulation tool. 
+Then I move to Simulink for more complex and variable behavior of the solar panel
+
+
+## Objectives
+# Create a working schematic of the buck converter for the solar panel in LTspice and Simulink through heavy simulation
+# Use that schematic as a reference for the hardware to be built
