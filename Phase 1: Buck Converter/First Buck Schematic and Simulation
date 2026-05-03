@@ -1,1 +1,34 @@
+# 1.1 First Buck Schematic and Simulations
+
+## Actions
+- Created a buck converter schematic using LTspice
+- Ran simulations to see behavior at differenct LC values or duty cycles
+
+
+---
+
+
+
+## Learning Outcomes
+- Buck converter behavior and relation to duty cycle
+- Buck converter under CCM and DCM
+- Basics of LTspice and simulation flow such as component searching, schematic creation, operational directives, and analysis of graphs.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# References
+https://www.youtube.com/watch?v=O93HfjM_CsU 
 
