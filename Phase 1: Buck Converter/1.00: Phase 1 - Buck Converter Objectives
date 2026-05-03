@@ -11,5 +11,7 @@ Then I move to Simulink for more complex and variable behavior of the solar pane
 
 
 ## Objectives
+# Use buck converter to power an Arduino Uno
 # Create a working schematic of the buck converter for the solar panel in LTspice and Simulink through heavy simulation
 # Use that schematic as a reference for the hardware to be built
+# Power a lithium battery back (you have a lithium battery charger look at that)
